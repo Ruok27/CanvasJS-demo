@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CanvasJS-demo/static/css/main.d1b05096.chunk.css",
+    "main.js": "/CanvasJS-demo/static/js/main.6878d014.chunk.js",
+    "main.js.map": "/CanvasJS-demo/static/js/main.6878d014.chunk.js.map",
+    "runtime-main.js": "/CanvasJS-demo/static/js/runtime-main.55e46a0b.js",
+    "runtime-main.js.map": "/CanvasJS-demo/static/js/runtime-main.55e46a0b.js.map",
+    "static/js/2.a8262049.chunk.js": "/CanvasJS-demo/static/js/2.a8262049.chunk.js",
+    "static/js/2.a8262049.chunk.js.map": "/CanvasJS-demo/static/js/2.a8262049.chunk.js.map",
+    "index.html": "/CanvasJS-demo/index.html",
+    "precache-manifest.cb7164523291598fbeaea8483324f188.js": "/CanvasJS-demo/precache-manifest.cb7164523291598fbeaea8483324f188.js",
+    "service-worker.js": "/CanvasJS-demo/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/CanvasJS-demo/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.a8262049.chunk.js.LICENSE.txt": "/CanvasJS-demo/static/js/2.a8262049.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55e46a0b.js",
+    "static/js/2.a8262049.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.6878d014.chunk.js"
+  ]
+}
